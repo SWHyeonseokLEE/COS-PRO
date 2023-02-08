@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\VS 2022 Class\2023.02.08\COSPRO2_5\COSPRO2_5\main.cpp(12,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\VS 2022 Class\2023.02.08\COSPRO2_5\COSPRO2_5\main.cpp(18,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\VS 2022 Class\2023.02.08\COSPRO2_5\COSPRO2_5\main.cpp(24,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  COSPRO2_5.vcxproj -> C:\VS 2022 Class\2023.02.08\COSPRO2_5\x64\Debug\COSPRO2_5.exe
